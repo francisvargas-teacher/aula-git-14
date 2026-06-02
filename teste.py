@@ -1,7 +1,7 @@
 a = int(input("Digite um valor:"))
 
 b = int(input("Digite outro valor:"))
-
+#corrigido
 def somar(valor1, valor2):
           return valor1 + valor2
 
